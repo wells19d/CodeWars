@@ -1,6 +1,6 @@
 ## Code Wars Workings
 
-#### My fellow cohort members starting working on codewars, so I started doing it myself (9-18-25). Much of the code is for starters but I figured I should do some of the newbie stuff and see how well I do compared to them. So far it's been interesting. My goal is to do these daily when i'm not working on my personal private project, Kitchen Queue.
+#### This was something I figured I should be doing in my down time when I'm not developing on Kitchen Queue and need a break... but should still be coding. I decided to start at the bottom and not jump ahead to get more of the real aspect of a new developer using this site. All in all, this is just for fun and to keep me coding.
 
 ---
 
