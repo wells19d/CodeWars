@@ -19,6 +19,7 @@
 - [x] - BMI - (9-19)
 - [x] - Century - (9-19)
 - [x] - String to Number - (9-19)
+- [x] - Grow - (9-21)
 
 ### 7 Kyu
 
