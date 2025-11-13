@@ -31,5 +31,9 @@
 - [x] - Filtered List - (10-9)
 - [x] - Disemvowel - (10-13)
 
+### 6 Kyu
+- [x] - roman - (11-5)
+- [x] - pangram - (11-13)
+
 ### 5 Kyu
 - [x] - Domains - (10-13)
